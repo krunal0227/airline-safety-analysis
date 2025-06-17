@@ -1,0 +1,301 @@
+Date,Airline,Incident_Type,Fatalities,Description
+2020-08-08,Vistara,Turbulence Injury,0,Turbulence Injury incident involving Vistara
+2021-11-01,Qatar Airways,Non-Fatal,0,Non-Fatal incident involving Qatar Airways
+2024-08-04,Go First,Fatal,10,Fatal incident involving Go First
+2020-12-13,Etihad Airways,Bird Strike,0,Bird Strike incident involving Etihad Airways
+2020-08-22,Air France,Fatal,1,Fatal incident involving Air France
+2021-10-07,Akasa Air,Bird Strike,0,Bird Strike incident involving Akasa Air
+2020-08-11,Cathay Pacific,Bird Strike,0,Bird Strike incident involving Cathay Pacific
+2024-06-23,Akasa Air,Turbulence Injury,0,Turbulence Injury incident involving Akasa Air
+2022-10-25,Etihad Airways,Non-Fatal,0,Non-Fatal incident involving Etihad Airways
+2023-10-07,United Airlines,Technical Issue,0,Technical Issue incident involving United Airlines
+2024-09-19,IndiGo,Non-Fatal,0,Non-Fatal incident involving IndiGo
+2022-05-15,Air France,Technical Issue,0,Technical Issue incident involving Air France
+2021-09-01,Go First,Technical Issue,0,Technical Issue incident involving Go First
+2020-12-24,Vistara,Emergency Landing,0,Emergency Landing incident involving Vistara
+2022-06-23,Vistara,Technical Issue,0,Technical Issue incident involving Vistara
+2021-12-11,Cathay Pacific,Fatal,7,Fatal incident involving Cathay Pacific
+2021-02-28,Etihad Airways,Emergency Landing,0,Emergency Landing incident involving Etihad Airways
+2023-07-23,SpiceJet,Technical Issue,0,Technical Issue incident involving SpiceJet
+2025-06-05,Cathay Pacific,Technical Issue,0,Technical Issue incident involving Cathay Pacific
+2021-07-16,Thai Airways,Turbulence Injury,0,Turbulence Injury incident involving Thai Airways
+2020-09-19,SpiceJet,Turbulence Injury,0,Turbulence Injury incident involving SpiceJet
+2024-10-18,Emirates,Technical Issue,0,Technical Issue incident involving Emirates
+2025-04-04,SpiceJet,Non-Fatal,0,Non-Fatal incident involving SpiceJet
+2022-08-05,Vistara,Technical Issue,0,Technical Issue incident involving Vistara
+2024-01-10,United Airlines,Technical Issue,0,Technical Issue incident involving United Airlines
+2022-07-16,AirAsia India,Technical Issue,0,Technical Issue incident involving AirAsia India
+2024-03-21,Akasa Air,Technical Issue,0,Technical Issue incident involving Akasa Air
+2023-11-17,SpiceJet,Turbulence Injury,0,Turbulence Injury incident involving SpiceJet
+2023-06-16,AirAsia India,Turbulence Injury,0,Turbulence Injury incident involving AirAsia India
+2021-05-18,Emirates,Emergency Landing,0,Emergency Landing incident involving Emirates
+2021-12-22,British Airways,Turbulence Injury,0,Turbulence Injury incident involving British Airways
+2021-09-10,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2025-03-10,Lufthansa,Fatal,3,Fatal incident involving Lufthansa
+2024-12-22,Air India,Technical Issue,0,Technical Issue incident involving Air India
+2021-12-18,British Airways,Fatal,3,Fatal incident involving British Airways
+2025-05-17,Thai Airways,Turbulence Injury,0,Turbulence Injury incident involving Thai Airways
+2021-08-27,Lufthansa,Turbulence Injury,0,Turbulence Injury incident involving Lufthansa
+2022-09-06,Delta Air Lines,Turbulence Injury,0,Turbulence Injury incident involving Delta Air Lines
+2021-04-06,United Airlines,Technical Issue,0,Technical Issue incident involving United Airlines
+2021-11-05,Go First,Turbulence Injury,0,Turbulence Injury incident involving Go First
+2023-06-26,Etihad Airways,Technical Issue,0,Technical Issue incident involving Etihad Airways
+2022-11-12,Thai Airways,Bird Strike,0,Bird Strike incident involving Thai Airways
+2022-06-29,British Airways,Non-Fatal,0,Non-Fatal incident involving British Airways
+2023-04-27,Go First,Emergency Landing,0,Emergency Landing incident involving Go First
+2024-09-12,SpiceJet,Fatal,1,Fatal incident involving SpiceJet
+2023-12-25,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2023-10-22,Air France,Fatal,6,Fatal incident involving Air France
+2023-10-21,British Airways,Emergency Landing,0,Emergency Landing incident involving British Airways
+2021-11-14,American Airlines,Bird Strike,0,Bird Strike incident involving American Airlines
+2024-04-11,IndiGo,Turbulence Injury,0,Turbulence Injury incident involving IndiGo
+2024-04-14,Vistara,Bird Strike,0,Bird Strike incident involving Vistara
+2024-10-09,Qatar Airways,Turbulence Injury,0,Turbulence Injury incident involving Qatar Airways
+2021-02-01,Lufthansa,Technical Issue,0,Technical Issue incident involving Lufthansa
+2021-05-07,Air France,Emergency Landing,0,Emergency Landing incident involving Air France
+2024-07-05,IndiGo,Turbulence Injury,0,Turbulence Injury incident involving IndiGo
+2023-04-09,Qatar Airways,Non-Fatal,0,Non-Fatal incident involving Qatar Airways
+2021-01-21,American Airlines,Turbulence Injury,0,Turbulence Injury incident involving American Airlines
+2025-03-07,Singapore Airlines,Turbulence Injury,0,Turbulence Injury incident involving Singapore Airlines
+2023-11-17,American Airlines,Non-Fatal,0,Non-Fatal incident involving American Airlines
+2022-07-23,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2024-10-29,Etihad Airways,Bird Strike,0,Bird Strike incident involving Etihad Airways
+2023-10-27,IndiGo,Technical Issue,0,Technical Issue incident involving IndiGo
+2020-07-27,Delta Air Lines,Fatal,5,Fatal incident involving Delta Air Lines
+2021-10-21,Singapore Airlines,Fatal,3,Fatal incident involving Singapore Airlines
+2020-11-26,Thai Airways,Fatal,7,Fatal incident involving Thai Airways
+2024-09-22,SpiceJet,Bird Strike,0,Bird Strike incident involving SpiceJet
+2021-03-07,Go First,Turbulence Injury,0,Turbulence Injury incident involving Go First
+2023-07-18,Delta Air Lines,Non-Fatal,0,Non-Fatal incident involving Delta Air Lines
+2023-06-03,Qatar Airways,Bird Strike,0,Bird Strike incident involving Qatar Airways
+2021-08-25,Air France,Bird Strike,0,Bird Strike incident involving Air France
+2024-06-17,Akasa Air,Technical Issue,0,Technical Issue incident involving Akasa Air
+2024-03-24,British Airways,Turbulence Injury,0,Turbulence Injury incident involving British Airways
+2022-12-02,Turkish Airlines,Bird Strike,0,Bird Strike incident involving Turkish Airlines
+2021-02-20,United Airlines,Non-Fatal,0,Non-Fatal incident involving United Airlines
+2020-10-27,Emirates,Technical Issue,0,Technical Issue incident involving Emirates
+2023-10-05,IndiGo,Bird Strike,0,Bird Strike incident involving IndiGo
+2023-10-06,Emirates,Non-Fatal,0,Non-Fatal incident involving Emirates
+2020-11-10,IndiGo,Turbulence Injury,0,Turbulence Injury incident involving IndiGo
+2021-09-29,Air India,Fatal,0,Fatal incident involving Air India
+2020-11-10,Lufthansa,Bird Strike,0,Bird Strike incident involving Lufthansa
+2022-01-09,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2021-08-30,Delta Air Lines,Bird Strike,0,Bird Strike incident involving Delta Air Lines
+2024-07-08,Go First,Bird Strike,0,Bird Strike incident involving Go First
+2023-02-11,Thai Airways,Non-Fatal,0,Non-Fatal incident involving Thai Airways
+2024-12-27,Delta Air Lines,Emergency Landing,0,Emergency Landing incident involving Delta Air Lines
+2020-12-28,Akasa Air,Fatal,10,Fatal incident involving Akasa Air
+2022-06-13,Air France,Emergency Landing,0,Emergency Landing incident involving Air France
+2023-01-30,Air France,Turbulence Injury,0,Turbulence Injury incident involving Air France
+2024-03-28,Air India,Turbulence Injury,0,Turbulence Injury incident involving Air India
+2020-10-20,Vistara,Emergency Landing,0,Emergency Landing incident involving Vistara
+2024-12-13,Lufthansa,Fatal,3,Fatal incident involving Lufthansa
+2021-07-12,Akasa Air,Bird Strike,0,Bird Strike incident involving Akasa Air
+2021-04-01,United Airlines,Emergency Landing,0,Emergency Landing incident involving United Airlines
+2022-01-09,AirAsia India,Emergency Landing,0,Emergency Landing incident involving AirAsia India
+2025-05-13,Emirates,Fatal,7,Fatal incident involving Emirates
+2021-01-04,Etihad Airways,Fatal,10,Fatal incident involving Etihad Airways
+2025-02-24,Etihad Airways,Fatal,1,Fatal incident involving Etihad Airways
+2021-05-24,Emirates,Emergency Landing,0,Emergency Landing incident involving Emirates
+2023-02-28,Delta Air Lines,Non-Fatal,0,Non-Fatal incident involving Delta Air Lines
+2020-10-16,British Airways,Non-Fatal,0,Non-Fatal incident involving British Airways
+2020-06-22,British Airways,Emergency Landing,0,Emergency Landing incident involving British Airways
+2024-11-09,Qatar Airways,Emergency Landing,0,Emergency Landing incident involving Qatar Airways
+2022-11-01,Singapore Airlines,Turbulence Injury,0,Turbulence Injury incident involving Singapore Airlines
+2024-03-04,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2021-05-01,Delta Air Lines,Non-Fatal,0,Non-Fatal incident involving Delta Air Lines
+2021-09-06,Singapore Airlines,Fatal,9,Fatal incident involving Singapore Airlines
+2020-10-20,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2020-10-13,Lufthansa,Fatal,9,Fatal incident involving Lufthansa
+2023-04-13,Delta Air Lines,Bird Strike,0,Bird Strike incident involving Delta Air Lines
+2020-10-12,AirAsia India,Bird Strike,0,Bird Strike incident involving AirAsia India
+2025-03-27,SpiceJet,Non-Fatal,0,Non-Fatal incident involving SpiceJet
+2023-10-19,SpiceJet,Fatal,10,Fatal incident involving SpiceJet
+2022-09-22,Emirates,Fatal,9,Fatal incident involving Emirates
+2023-09-16,Emirates,Bird Strike,0,Bird Strike incident involving Emirates
+2023-12-08,Air India,Fatal,6,Fatal incident involving Air India
+2023-08-19,Thai Airways,Bird Strike,0,Bird Strike incident involving Thai Airways
+2021-12-04,Lufthansa,Non-Fatal,0,Non-Fatal incident involving Lufthansa
+2021-10-19,Lufthansa,Technical Issue,0,Technical Issue incident involving Lufthansa
+2021-03-13,British Airways,Turbulence Injury,0,Turbulence Injury incident involving British Airways
+2023-01-10,Singapore Airlines,Technical Issue,0,Technical Issue incident involving Singapore Airlines
+2020-07-07,SpiceJet,Emergency Landing,0,Emergency Landing incident involving SpiceJet
+2023-08-15,Cathay Pacific,Fatal,1,Fatal incident involving Cathay Pacific
+2021-08-28,Etihad Airways,Bird Strike,0,Bird Strike incident involving Etihad Airways
+2021-03-16,Qatar Airways,Technical Issue,0,Technical Issue incident involving Qatar Airways
+2025-05-23,SpiceJet,Non-Fatal,0,Non-Fatal incident involving SpiceJet
+2022-01-22,Turkish Airlines,Non-Fatal,0,Non-Fatal incident involving Turkish Airlines
+2025-02-19,United Airlines,Bird Strike,0,Bird Strike incident involving United Airlines
+2023-11-22,Singapore Airlines,Turbulence Injury,0,Turbulence Injury incident involving Singapore Airlines
+2020-07-04,American Airlines,Turbulence Injury,0,Turbulence Injury incident involving American Airlines
+2022-02-21,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2025-05-21,Vistara,Non-Fatal,0,Non-Fatal incident involving Vistara
+2021-02-09,Qatar Airways,Fatal,8,Fatal incident involving Qatar Airways
+2021-12-27,Go First,Technical Issue,0,Technical Issue incident involving Go First
+2021-08-23,Cathay Pacific,Turbulence Injury,0,Turbulence Injury incident involving Cathay Pacific
+2021-08-08,Lufthansa,Turbulence Injury,0,Turbulence Injury incident involving Lufthansa
+2023-04-19,Qatar Airways,Emergency Landing,0,Emergency Landing incident involving Qatar Airways
+2025-03-16,Qatar Airways,Fatal,1,Fatal incident involving Qatar Airways
+2025-02-10,Air France,Technical Issue,0,Technical Issue incident involving Air France
+2020-06-25,Air India,Technical Issue,0,Technical Issue incident involving Air India
+2024-01-13,Go First,Technical Issue,0,Technical Issue incident involving Go First
+2024-08-14,AirAsia India,Emergency Landing,0,Emergency Landing incident involving AirAsia India
+2024-06-02,Etihad Airways,Emergency Landing,0,Emergency Landing incident involving Etihad Airways
+2020-07-07,Etihad Airways,Fatal,1,Fatal incident involving Etihad Airways
+2023-07-10,Go First,Fatal,5,Fatal incident involving Go First
+2023-07-24,Thai Airways,Non-Fatal,0,Non-Fatal incident involving Thai Airways
+2021-03-06,Air France,Fatal,4,Fatal incident involving Air France
+2024-12-04,Turkish Airlines,Fatal,5,Fatal incident involving Turkish Airlines
+2024-04-14,Akasa Air,Non-Fatal,0,Non-Fatal incident involving Akasa Air
+2022-06-12,Vistara,Bird Strike,0,Bird Strike incident involving Vistara
+2023-12-11,Air France,Turbulence Injury,0,Turbulence Injury incident involving Air France
+2021-10-15,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2025-05-28,AirAsia India,Emergency Landing,0,Emergency Landing incident involving AirAsia India
+2021-06-20,IndiGo,Turbulence Injury,0,Turbulence Injury incident involving IndiGo
+2024-11-06,Lufthansa,Emergency Landing,0,Emergency Landing incident involving Lufthansa
+2021-12-16,Emirates,Non-Fatal,0,Non-Fatal incident involving Emirates
+2022-08-10,Vistara,Fatal,7,Fatal incident involving Vistara
+2021-07-31,Emirates,Emergency Landing,0,Emergency Landing incident involving Emirates
+2022-03-05,Turkish Airlines,Non-Fatal,0,Non-Fatal incident involving Turkish Airlines
+2020-08-05,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2022-09-12,Akasa Air,Technical Issue,0,Technical Issue incident involving Akasa Air
+2025-04-23,Qatar Airways,Fatal,4,Fatal incident involving Qatar Airways
+2024-01-22,Turkish Airlines,Bird Strike,0,Bird Strike incident involving Turkish Airlines
+2024-04-09,British Airways,Bird Strike,0,Bird Strike incident involving British Airways
+2020-08-13,Lufthansa,Fatal,4,Fatal incident involving Lufthansa
+2023-09-20,AirAsia India,Technical Issue,0,Technical Issue incident involving AirAsia India
+2021-01-26,Air India,Bird Strike,0,Bird Strike incident involving Air India
+2022-05-26,Air France,Turbulence Injury,0,Turbulence Injury incident involving Air France
+2022-11-28,Lufthansa,Bird Strike,0,Bird Strike incident involving Lufthansa
+2021-02-09,American Airlines,Emergency Landing,0,Emergency Landing incident involving American Airlines
+2021-07-12,Thai Airways,Technical Issue,0,Technical Issue incident involving Thai Airways
+2024-06-08,Air India,Emergency Landing,0,Emergency Landing incident involving Air India
+2023-05-18,IndiGo,Bird Strike,0,Bird Strike incident involving IndiGo
+2022-07-03,Akasa Air,Emergency Landing,0,Emergency Landing incident involving Akasa Air
+2024-03-09,SpiceJet,Technical Issue,0,Technical Issue incident involving SpiceJet
+2022-03-22,Cathay Pacific,Turbulence Injury,0,Turbulence Injury incident involving Cathay Pacific
+2024-07-01,Vistara,Technical Issue,0,Technical Issue incident involving Vistara
+2022-03-13,American Airlines,Turbulence Injury,0,Turbulence Injury incident involving American Airlines
+2022-04-17,Air France,Emergency Landing,0,Emergency Landing incident involving Air France
+2023-07-28,Singapore Airlines,Non-Fatal,0,Non-Fatal incident involving Singapore Airlines
+2022-10-27,Akasa Air,Turbulence Injury,0,Turbulence Injury incident involving Akasa Air
+2024-04-05,British Airways,Turbulence Injury,0,Turbulence Injury incident involving British Airways
+2023-11-30,AirAsia India,Bird Strike,0,Bird Strike incident involving AirAsia India
+2022-09-27,Singapore Airlines,Bird Strike,0,Bird Strike incident involving Singapore Airlines
+2022-03-02,IndiGo,Technical Issue,0,Technical Issue incident involving IndiGo
+2022-11-15,Akasa Air,Bird Strike,0,Bird Strike incident involving Akasa Air
+2024-02-18,Cathay Pacific,Technical Issue,0,Technical Issue incident involving Cathay Pacific
+2022-12-09,United Airlines,Emergency Landing,0,Emergency Landing incident involving United Airlines
+2023-04-30,Akasa Air,Emergency Landing,0,Emergency Landing incident involving Akasa Air
+2024-02-27,AirAsia India,Fatal,4,Fatal incident involving AirAsia India
+2024-03-08,American Airlines,Turbulence Injury,0,Turbulence Injury incident involving American Airlines
+2022-05-05,Cathay Pacific,Fatal,3,Fatal incident involving Cathay Pacific
+2021-09-21,Singapore Airlines,Non-Fatal,0,Non-Fatal incident involving Singapore Airlines
+2020-08-07,Go First,Fatal,3,Fatal incident involving Go First
+2023-11-21,Delta Air Lines,Fatal,7,Fatal incident involving Delta Air Lines
+2025-06-06,Air France,Turbulence Injury,0,Turbulence Injury incident involving Air France
+2021-07-21,Thai Airways,Turbulence Injury,0,Turbulence Injury incident involving Thai Airways
+2023-03-27,British Airways,Emergency Landing,0,Emergency Landing incident involving British Airways
+2021-04-16,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2024-09-02,IndiGo,Fatal,6,Fatal incident involving IndiGo
+2021-06-13,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2023-01-25,American Airlines,Fatal,8,Fatal incident involving American Airlines
+2025-03-21,Emirates,Fatal,7,Fatal incident involving Emirates
+2024-12-15,Go First,Emergency Landing,0,Emergency Landing incident involving Go First
+2023-08-06,American Airlines,Bird Strike,0,Bird Strike incident involving American Airlines
+2024-09-11,Lufthansa,Emergency Landing,0,Emergency Landing incident involving Lufthansa
+2025-01-12,Cathay Pacific,Turbulence Injury,0,Turbulence Injury incident involving Cathay Pacific
+2022-11-08,American Airlines,Bird Strike,0,Bird Strike incident involving American Airlines
+2021-05-09,United Airlines,Turbulence Injury,0,Turbulence Injury incident involving United Airlines
+2022-12-26,Delta Air Lines,Technical Issue,0,Technical Issue incident involving Delta Air Lines
+2025-03-04,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2024-10-03,Qatar Airways,Bird Strike,0,Bird Strike incident involving Qatar Airways
+2023-12-23,Delta Air Lines,Non-Fatal,0,Non-Fatal incident involving Delta Air Lines
+2022-12-05,Qatar Airways,Fatal,4,Fatal incident involving Qatar Airways
+2021-12-26,Emirates,Technical Issue,0,Technical Issue incident involving Emirates
+2023-06-29,Lufthansa,Fatal,2,Fatal incident involving Lufthansa
+2021-10-04,Go First,Emergency Landing,0,Emergency Landing incident involving Go First
+2024-06-03,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2022-10-15,SpiceJet,Emergency Landing,0,Emergency Landing incident involving SpiceJet
+2023-07-04,Lufthansa,Emergency Landing,0,Emergency Landing incident involving Lufthansa
+2020-10-23,Air France,Non-Fatal,0,Non-Fatal incident involving Air France
+2022-08-24,Air France,Bird Strike,0,Bird Strike incident involving Air France
+2025-04-07,IndiGo,Bird Strike,0,Bird Strike incident involving IndiGo
+2023-02-19,British Airways,Fatal,5,Fatal incident involving British Airways
+2024-09-08,Singapore Airlines,Emergency Landing,0,Emergency Landing incident involving Singapore Airlines
+2023-06-25,Air France,Turbulence Injury,0,Turbulence Injury incident involving Air France
+2024-12-12,Etihad Airways,Bird Strike,0,Bird Strike incident involving Etihad Airways
+2023-03-14,Emirates,Non-Fatal,0,Non-Fatal incident involving Emirates
+2022-11-27,Qatar Airways,Emergency Landing,0,Emergency Landing incident involving Qatar Airways
+2022-08-23,IndiGo,Technical Issue,0,Technical Issue incident involving IndiGo
+2024-07-10,British Airways,Non-Fatal,0,Non-Fatal incident involving British Airways
+2021-03-06,United Airlines,Bird Strike,0,Bird Strike incident involving United Airlines
+2020-08-12,Etihad Airways,Emergency Landing,0,Emergency Landing incident involving Etihad Airways
+2023-08-17,Thai Airways,Turbulence Injury,0,Turbulence Injury incident involving Thai Airways
+2020-12-06,IndiGo,Turbulence Injury,0,Turbulence Injury incident involving IndiGo
+2021-03-22,Air France,Emergency Landing,0,Emergency Landing incident involving Air France
+2020-09-28,AirAsia India,Technical Issue,0,Technical Issue incident involving AirAsia India
+2022-04-19,British Airways,Non-Fatal,0,Non-Fatal incident involving British Airways
+2022-04-18,United Airlines,Technical Issue,0,Technical Issue incident involving United Airlines
+2022-01-08,British Airways,Emergency Landing,0,Emergency Landing incident involving British Airways
+2025-02-21,Qatar Airways,Fatal,7,Fatal incident involving Qatar Airways
+2024-08-30,IndiGo,Bird Strike,0,Bird Strike incident involving IndiGo
+2022-06-04,Air India,Non-Fatal,0,Non-Fatal incident involving Air India
+2024-11-03,SpiceJet,Turbulence Injury,0,Turbulence Injury incident involving SpiceJet
+2024-09-09,Air India,Fatal,3,Fatal incident involving Air India
+2025-03-02,Akasa Air,Fatal,9,Fatal incident involving Akasa Air
+2021-10-19,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2024-03-20,Delta Air Lines,Fatal,9,Fatal incident involving Delta Air Lines
+2023-01-26,Akasa Air,Turbulence Injury,0,Turbulence Injury incident involving Akasa Air
+2024-10-05,Qatar Airways,Technical Issue,0,Technical Issue incident involving Qatar Airways
+2023-11-10,AirAsia India,Bird Strike,0,Bird Strike incident involving AirAsia India
+2024-10-27,Vistara,Non-Fatal,0,Non-Fatal incident involving Vistara
+2021-01-25,Singapore Airlines,Bird Strike,0,Bird Strike incident involving Singapore Airlines
+2022-03-18,IndiGo,Bird Strike,0,Bird Strike incident involving IndiGo
+2022-09-08,British Airways,Turbulence Injury,0,Turbulence Injury incident involving British Airways
+2020-11-20,Akasa Air,Bird Strike,0,Bird Strike incident involving Akasa Air
+2021-01-12,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2025-03-25,Singapore Airlines,Turbulence Injury,0,Turbulence Injury incident involving Singapore Airlines
+2024-12-23,Cathay Pacific,Fatal,9,Fatal incident involving Cathay Pacific
+2022-05-30,Air India,Bird Strike,0,Bird Strike incident involving Air India
+2024-03-03,Air France,Technical Issue,0,Technical Issue incident involving Air France
+2023-04-20,SpiceJet,Turbulence Injury,0,Turbulence Injury incident involving SpiceJet
+2020-07-13,Lufthansa,Emergency Landing,0,Emergency Landing incident involving Lufthansa
+2021-01-20,Delta Air Lines,Emergency Landing,0,Emergency Landing incident involving Delta Air Lines
+2024-01-10,Turkish Airlines,Emergency Landing,0,Emergency Landing incident involving Turkish Airlines
+2022-11-26,Go First,Non-Fatal,0,Non-Fatal incident involving Go First
+2024-02-10,American Airlines,Technical Issue,0,Technical Issue incident involving American Airlines
+2024-12-29,Cathay Pacific,Bird Strike,0,Bird Strike incident involving Cathay Pacific
+2023-01-26,Delta Air Lines,Emergency Landing,0,Emergency Landing incident involving Delta Air Lines
+2021-12-19,Thai Airways,Technical Issue,0,Technical Issue incident involving Thai Airways
+2025-02-13,Emirates,Fatal,4,Fatal incident involving Emirates
+2021-10-30,United Airlines,Emergency Landing,0,Emergency Landing incident involving United Airlines
+2023-11-19,Thai Airways,Turbulence Injury,0,Turbulence Injury incident involving Thai Airways
+2022-05-07,British Airways,Fatal,7,Fatal incident involving British Airways
+2021-06-25,Lufthansa,Emergency Landing,0,Emergency Landing incident involving Lufthansa
+2022-06-14,Akasa Air,Technical Issue,0,Technical Issue incident involving Akasa Air
+2022-01-11,Lufthansa,Bird Strike,0,Bird Strike incident involving Lufthansa
+2023-07-31,Qatar Airways,Fatal,8,Fatal incident involving Qatar Airways
+2020-12-10,Akasa Air,Non-Fatal,0,Non-Fatal incident involving Akasa Air
+2023-03-15,Air France,Bird Strike,0,Bird Strike incident involving Air France
+2024-05-02,Emirates,Emergency Landing,0,Emergency Landing incident involving Emirates
+2022-12-22,Delta Air Lines,Fatal,1,Fatal incident involving Delta Air Lines
+2021-09-14,Singapore Airlines,Emergency Landing,0,Emergency Landing incident involving Singapore Airlines
+2022-03-07,Emirates,Turbulence Injury,0,Turbulence Injury incident involving Emirates
+2022-07-13,Thai Airways,Emergency Landing,0,Emergency Landing incident involving Thai Airways
+2023-06-10,Etihad Airways,Technical Issue,0,Technical Issue incident involving Etihad Airways
+2024-08-23,Air France,Bird Strike,0,Bird Strike incident involving Air France
+2022-06-08,Lufthansa,Turbulence Injury,0,Turbulence Injury incident involving Lufthansa
+2021-12-24,United Airlines,Technical Issue,0,Technical Issue incident involving United Airlines
+2021-10-03,Qatar Airways,Fatal,3,Fatal incident involving Qatar Airways
+2021-02-17,Lufthansa,Turbulence Injury,0,Turbulence Injury incident involving Lufthansa
+2024-09-25,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2021-07-15,AirAsia India,Non-Fatal,0,Non-Fatal incident involving AirAsia India
+2022-01-05,Delta Air Lines,Turbulence Injury,0,Turbulence Injury incident involving Delta Air Lines
+2024-09-21,Thai Airways,Bird Strike,0,Bird Strike incident involving Thai Airways
+2022-01-18,Cathay Pacific,Fatal,3,Fatal incident involving Cathay Pacific
+2021-09-26,Singapore Airlines,Technical Issue,0,Technical Issue incident involving Singapore Airlines
+2022-02-27,AirAsia India,Fatal,8,Fatal incident involving AirAsia India
+2021-12-31,Go First,Fatal,0,Fatal incident involving Go First
+2022-02-06,Etihad Airways,Turbulence Injury,0,Turbulence Injury incident involving Etihad Airways
+2024-01-15,Go First,Emergency Landing,0,Emergency Landing incident involving Go First
