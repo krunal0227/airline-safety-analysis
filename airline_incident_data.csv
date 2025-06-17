@@ -1,0 +1,22 @@
+Airline,Category,Flights_Last_2_Years,Fatal_Accidents,Serious_Incidents
+Air India,Indian,1200000,2,4
+Air India Express,Indian,400000,0,0
+IndiGo,Indian,1600000,1,11
+SpiceJet,Indian,800000,2,8
+Vistara,Indian,400000,1,5
+Go First,Indian,300000,3,9
+Qatar Airways,Foreign,1300000,7,5
+Etihad Airways,Foreign,1200000,3,11
+Air France,Foreign,1100000,3,10
+Akasa Air,Indian,200000,2,9
+Cathay Pacific,Foreign,1000000,5,5
+United Airlines,Foreign,1400000,0,4
+Thai Airways,Foreign,900000,1,10
+Emirates,Foreign,1500000,4,11
+AirAsia India,Indian,600000,2,5
+British Airways,Foreign,1100000,3,10
+Lufthansa,Foreign,1200000,5,8
+Delta Air Lines,Foreign,1350000,4,8
+American Airlines,Foreign,1300000,1,8
+Singapore Airlines,Foreign,1150000,2,8
+Turkish Airlines,Foreign,1250000,1,4
